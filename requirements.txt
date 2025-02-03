@@ -2,3 +2,15 @@ streamlit
 nltk
 matplotlib
 wordcloud
+streamlit
+nltk
+matplotlib
+wordcloud
+streamlit
+pickle
+re
+nltk
+matplotlib.pyplot
+wordcloud
+nltk.corpus.stopwords
+os
