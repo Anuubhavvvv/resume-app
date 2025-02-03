@@ -14,3 +14,4 @@ matplotlib.pyplot
 wordcloud
 nltk.corpus.stopwords
 os
+sklearn
